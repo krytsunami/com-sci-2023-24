@@ -1,0 +1,36 @@
+
+body {
+    background-image: url("aea5be78ee9b6aa736c1d22ba3e2e8c3.png"); /* Replace with the path to your background image */
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center;
+    text-align: center; /* Center the content */
+}
+
+h1 {
+    background-color: #98ff98;/* Background color in HEX format */
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+    margin: 0 auto 20px; /* Center and add margin at the bottom */
+    font-family: 'Arial', sans-serif; /* Example font family, replace with your choice */
+}
+
+p {
+    text-align: justify;
+    background-color: hsl(210, 50%, 70%); /* Background color in HSL format */
+    font-style: italic;
+    padding: 20px;
+    width: 500px;
+    border-width: 3px 5px 3px 1px; /* Different border widths for each side */
+    border-style: solid; /* Different border styles (you can choose other styles like dashed, double, etc.) */
+    border-color: black;
+    margin: 0 auto; /* Center the content */
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(100, 200, 50); /* Font color in RGB format */
+    margin: 2px 5px; /* Margin 2px (top and bottom), 5px (left and right) */
+}
