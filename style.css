@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('https://krytsunami.github.io/com-sci-2023-24/aea5be78ee9b6aa736c1d22ba3e2e8c3.png'); /* Replace with the path to your background image */
+    background-image: url('./images/aea5be78ee9b6aa736c1d22ba3e2e8c3.PNG'); /* Replace with the path to your background image */
     background-repeat: no-repeat;
     background-size: 150%;
     background-position: center;
