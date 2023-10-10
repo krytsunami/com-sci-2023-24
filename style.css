@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('./images/noctis.jpg'); /* Replace with the path to your background image */
+    background-image: url("noctis.jpg"); /* Replace with the path to your background image */
     background-repeat: no-repeat;
     background-size: 150%;
     background-position: center;
